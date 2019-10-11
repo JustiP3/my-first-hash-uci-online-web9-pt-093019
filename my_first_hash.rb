@@ -1,5 +1,5 @@
 def my_hash
-my_hash = {name => "Justin"}
+my_hash = {"name" => "Justin"}
 end
 
 
